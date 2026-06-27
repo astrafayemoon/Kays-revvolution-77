@@ -214,6 +214,40 @@ font-size:28px;
 <a href="#contact">Contact</a>
 </div>
 
+<section id="donate" class="donate">
+
+<h2>Support Kay's Revvoltion</h2>
+
+<p>
+Every dollar helps provide food, emergency assistance, advocacy,
+and healing through our Wind Therapy motorcycle community.
+</p>
+
+<div style="max-width:300px;margin:40px auto;">
+
+<img src="1000008717.png"
+alt="Cash App QR Code"
+style="width:100%;
+border-radius:20px;
+box-shadow:0 0 20px rgba(255,0,0,.5);">
+
+</div>
+
+<h2>Cash App</h2>
+
+<h1 style="color:#00d632;">$KaysRevvoltion</h1>
+
+<p>
+Scan the QR code above or search our Cash App using the Cashtag
+<strong>$KaysRevvoltion</strong>.
+</p>
+
+<a class="button"
+href="https://cash.app/$KaysRevvoltion">
+Donate with Cash App
+</a>
+
+</section>
 </nav>
 
 </header>
